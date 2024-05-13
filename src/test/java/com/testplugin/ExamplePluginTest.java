@@ -1,4 +1,4 @@
-package com.example;
+package com.testplugin;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
